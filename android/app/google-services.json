@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "848857636877",
+    "project_id": "my-nbhd-fr",
+    "storage_bucket": "my-nbhd-fr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848857636877:android:8022a33d176a75b161b544",
+        "android_client_info": {
+          "package_name": "com.example.my_nbhd_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848857636877-fcg78n85cuo6vt5igfq367vn4qphmn2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcDEVSRSD1RIIzo2yAqxrCKhJ0-r0yTW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848857636877-fcg78n85cuo6vt5igfq367vn4qphmn2v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "848857636877-hdm6j4id62e1m8p2vpc7s4gv1s4f01tl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.myNbhdTest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
